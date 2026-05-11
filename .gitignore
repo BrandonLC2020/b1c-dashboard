@@ -156,7 +156,13 @@ pnpm-debug.log*
 *.tfvars.json
 
 # Agent Modules (Proprietary)
-.agent/modules/llc-*
+.agent/modules/
 /CLAUDE.md
 /agent.md
 /GEMINI.md
+
+# b1CodingTool Generated
+CLAUDE.md
+.claude/
+GEMINI.md
+.gemini/
